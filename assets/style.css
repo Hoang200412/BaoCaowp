@@ -1,0 +1,22 @@
+.qlcb-form {
+    max-width: 600px;
+    margin: 20px auto;
+    background: #f4f4f4;
+    padding: 20px;
+    border-radius: 10px;
+}
+.qlcb-form input, .qlcb-form select {
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 8px;
+}
+.qlcb-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+.qlcb-table th, .qlcb-table td {
+    border: 1px solid #ccc;
+    padding: 8px;
+    text-align: left;
+}
